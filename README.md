@@ -10,6 +10,6 @@
 <h3>Article</h3>
 <table>
   <tr>
-    <td><img src="https://github.com/mdbicode/simple-blog/blob/main/assets/img/result-blog.jpeg" alt="result" width="896"></td>
+    <td><img src="https://github.com/mdbicode/simple-blog/blob/main/assets/img/result-article.jpeg" alt="result" width="896"></td>
   </tr>
 </table>
